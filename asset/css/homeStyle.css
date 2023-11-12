@@ -45,13 +45,13 @@ body{
 
 @font-face {
     font-family: 'ViaFont';
-    src: url('./asset/fonts/Via/Viafont.otf') format('opentype');
+    src: url(./asset/fonts/Via/Viafont.otf) format('opentype');
     /* Aggiungi altri formati di font come .woff o .woff2, se necessario, per la compatibilità dei browser */
 }
 
 @font-face {
     font-family: 'ToonySans';
-    src: url('.asset/fonts/Toony/ToonySans_PERSONAL_USE_ONLY.otf') format('opentype');
+    src: url(.asset/fonts/Toony/ToonySans_PERSONAL_USE_ONLY.otf) format('opentype');
     /* Aggiungi altri formati di font come .woff o .woff2, se necessario, per la compatibilità dei browser */
 }
 
